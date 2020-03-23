@@ -16,6 +16,7 @@ target "SignalR.Client.iOS" do
     end
 end
 
+
 target :"SignalR.Client.OSX" do
     use_frameworks!
     platform :osx, '10.9'

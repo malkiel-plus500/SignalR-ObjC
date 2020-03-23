@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/DyKnow/SignalR-ObjC"
   s.license      = 'MIT'
   s.author       = { "Alex Billingsley" => "abillingsley@dyknow.com" }
-  s.source   	 = { :git => 'https://github.com/malkiel-plus500/SignalR-ObjC.git', :commit => '7f4c810d1ff3c2a8f4f677ffe7a2787de69a43b2' }
+  s.source   	 = { :git => 'https://github.com/malkiel-plus500/SignalR-ObjC.git', :tag => 'v2.0.3' }
   s.ios.deployment_target = '7.0'
   s.osx.deployment_target = '10.9'
   s.requires_arc = true
